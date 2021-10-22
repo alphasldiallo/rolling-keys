@@ -20,7 +20,7 @@ Requirements
 Building and Running
 ********************
 
-This sample can be found under :zephyr_file:`samples/bluetooth/beacon` in the
+The template used can be found under :zephyr_file:`samples/bluetooth/beacon` in the
 Zephyr tree.
 
 See :ref:`bluetooth samples section <bluetooth-samples>` for details.
