@@ -14,4 +14,4 @@ Requirements
 ************
 
 * BlueZ running on the host, or
-* A board with BLE support
+* A board with BLE support (for this project, I used a Nordic nRF-52833)
