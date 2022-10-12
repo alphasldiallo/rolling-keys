@@ -6,8 +6,7 @@ Bluetooth: Beacon
 Overview
 ********
 
-A simple application demonstrating the BLE Broadcaster role functionality by
-advertising an Eddystone URL (the Zephyr website).
+A simple application demonstrating the BLE Broadcaster role functionality by advertising custom BLE 5 advertising packets.
 
 
 
@@ -16,11 +15,3 @@ Requirements
 
 * BlueZ running on the host, or
 * A board with BLE support
-
-Building and Running
-********************
-
-The template used can be found under :zephyr_file:`samples/bluetooth/beacon` in the
-Zephyr tree.
-
-See :ref:`bluetooth samples section <bluetooth-samples>` for details.
